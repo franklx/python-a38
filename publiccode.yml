@@ -4,8 +4,8 @@
 
 publiccodeYmlVersion: '0.2'
 name: A38
-url: 'https://github.com/Truelite/python-a38.git'
-softwareVersion: 0.1.5
+url: 'https://github.com/franklx/python-a38.git'
+softwareVersion: 0.1.6
 releaseDate: '2022-04-01'
 inputTypes:
   - text/xml
